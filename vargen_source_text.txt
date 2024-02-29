@@ -1,0 +1,4 @@
+[Mr.|Mrs.] Smith
+Good [[morning|evening], [John|Jane]| day]!
+Would you like [tea|coffee|water]?
+Let's go to the [park|cinema|beach] this weekend.

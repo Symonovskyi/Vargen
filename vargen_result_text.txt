@@ -1,0 +1,13 @@
+Would you like tea?
+Would you like coffee?
+Would you like water?
+Good morning, John!
+Good morning, Jane!
+Good evening, John!
+Good evening, Jane!
+Good day!
+Mr. Smith
+Mrs. Smith
+Let's go to the park this weekend.
+Let's go to the cinema this weekend.
+Let's go to the beach this weekend.
